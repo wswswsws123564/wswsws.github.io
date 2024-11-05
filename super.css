@@ -1,0 +1,28 @@
+.box1 {
+background-color: yellow ;
+border-radius: 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+      }
+.box2 {
+background-image: url(las.jpg) ;
+background-position: center ;
+background-size: auto auto;
+border-radius: 15px ;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: x-large;
+color: white;
+      }
+.box3 {
+background-image: url(las.jpg);
+background-repeat: repeat-x;
+border-radius: 15px ;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: x-large;
+color: white;
+}
