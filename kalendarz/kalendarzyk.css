@@ -1,0 +1,170 @@
+html
+{
+    cursor: crosshair;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #05610d;
+    color: black;
+    text-align: center;
+    background-image: url(https://img.freepik.com/darmowe-wektory/zimowe-tlo-w-stylu-papieru-z-pustej-przestrzeni_52683-48507.jpg?semt=ais_hybrid);
+    background-size: cover;
+}
+header {
+    background-color:rgb(51, 77, 223);
+    color: white;
+    padding: 20px;
+    border-style:outset;
+    border: 1mm solid black (1,0,0,0) ;
+    border-radius: 15px ;
+}
+.kalendarz {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.day {
+    height: 70px ;
+    width: 80px;
+    background-color: rgb(26, 27, 32);
+    border: 2px solid #05610d;
+    border-radius: 8px;
+    padding: 20px;
+    font-size: 1.5rem;
+    cursor: crosshair;
+    text-align: center;
+}
+footer {
+    color: black;
+}
+#linczek
+{
+    color: black;
+}
+#d1:hover 
+{
+background-image: url(https://cdn.rri.co.id/berita/1/images/1702691990180-i/2kn48gterk7q4k9.jpeg);
+background-size: cover;
+}
+#d2:hover
+{
+background-image: url(https://media.tenor.com/_jPRbn_nv3sAAAAM/santa-dog.gif) ;
+background-size:cover ;
+}
+#d3:hover
+{
+background-image: url(https://attic.sh/lq82vzvwsvc9jyx5zq37yty3o0ed);
+background-size: cover;
+}
+#d4:hover
+{
+background-image: url(https://images.pexels.com/photos/5847901/pexels-photo-5847901.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+background-size:cover;
+}
+#d5:hover 
+{
+background-image: url(https://lh4.googleusercontent.com/proxy/aDLzTnIX2a4n9a_pSTYsyu-NnYp_Ek-sDcDRp-IgPWVJBOLpPFOIZVj3xy5f0SFyfVZ0etV3CiluLrAHJlT6k1QETLxLcaCK9BxF4cXiQZGoH_vUiTnj8VXkCwujG4snHuRt27qd);
+background-size: cover;
+}
+#d6:hover 
+{
+background-image: url(https://static.im-g.pl/im/8/29203/m29203168,GIFY-SWIATECZNE12.gif);
+background-size: cover;
+}
+#d7:hover 
+{
+background-image: url(https://i.pinimg.com/originals/64/d6/68/64d668edefd478d2e854b8f85860c38d.gif);
+background-size: cover;
+}
+#d8:hover 
+{
+background-image: url(https://images.milledcdn.com/2019-12-18/I1TLq4TKWZg1Q8va/id6aXH9eL_4J.gif);
+background-size: cover;
+}
+#d9:hover 
+{
+background-image: url(https://media.tenor.com/U-jAnHL_T4UAAAAM/lol.gif);
+background-size: cover;
+}
+#d10:hover 
+{
+background-image: url(https://www.synamimedia.com/wp-content/uploads/2021/12/CocaCola_Main-img.jpg);
+background-size: cover;
+}
+#d11:hover 
+{
+background-image: url(https://cdn.thewirecutter.com/wp-content/media/2021/10/artificialchristmastrees-2048px-9879.jpg?width=2048&quality=75&crop=2:1&auto=webp);
+background-size: cover;
+}
+#d12:hover 
+{
+background-image: url(https://i.chzbgr.com/full/7932987392/h6077B3E8/grumpy-pokey-christmas);
+background-size: cover;
+}
+#d13:hover 
+{
+background-image: url(https://media.tenor.com/EPtzfU0DDmEAAAAM/merry-xmas-merry-xmas-funny.gif);
+background-size: cover;
+}
+#d14:hover 
+{
+background-image: url(https://i.pinimg.com/originals/36/14/bd/3614bd5420ef227784588ace57e33481.gif);
+background-size: cover;
+}
+#d15:hover 
+{
+background-image: url(https://thumbs.dreamstime.com/b/christmas-background-tree-flour-white-flour-looks-like-snow-top-view-44456473.jpg);
+background-size: cover;
+}
+#d16:hover 
+{
+background-image: url(https://media.tenor.com/Ux8lrOJ_6eIAAAAM/raccoon-animal.gif);
+background-size: cover;
+}
+#d17:hover 
+{
+background-image: url(https://m.lovethispic.com/uploaded_images/blogs/10-Funny-Santa-Claus-Gifs-For-Christmas-49781-2.gif);
+background-size: cover;
+}
+#d18:hover 
+{
+background-image: url(https://64.media.tumblr.com/35aad7c64520651c47263d789bb3db09/tumblr_nge641T5VU1ro8ysbo1_500.gif);
+background-size: cover;
+}
+#d19:hover 
+{
+background-image: url(https://i0.wp.com/media0.giphy.com/media/dUWHOAKFSNtdK/giphy.gif);
+background-size: cover;
+}
+#d20:hover 
+{
+background-image: url(https://t4.ftcdn.net/jpg/01/79/01/79/360_F_179017939_rht0MoRED2l4QgV46xFBS9rtjb2EtRIb.jpg);
+background-size: cover;
+}
+#d21:hover 
+{
+background-image: url(https://jeopardylabs.com/ugc/2020-11-17%2Fb2d62c80-7140-4df6-a348-ba25bf3bb9db-carey2.gif);
+background-size: cover;
+}
+#d22:hover 
+{
+background-image: url(https://media.tenor.com/iahQ5yadvAIAAAAM/dog-pet.gif);
+background-size: cover;
+}
+#d23:hover 
+{
+background-image: url(https://media.tenor.com/tawK28HKpHMAAAAM/dog-santa-puppy.gif);
+background-size: cover;
+}
+#d24:hover 
+{
+background-image: url(https://zsdios.pl/media/uploads/news/a8/808b.jpg);
+background-size: cover;
+}
